@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26769788686",
+    "project_id": "flc-10-project",
+    "storage_bucket": "flc-10-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26769788686:android:16c5072d2def18cdca915f",
+        "android_client_info": {
+          "package_name": "com.student_management.student_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc5sL8aXaZXFGTQK-wP1SOd2kd12IkhM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
